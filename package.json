@@ -1,0 +1,17 @@
+{
+  "name": "basic-coffee",
+  "version": "1.0.0",
+  "description": "Ultra Basic Coffee Project",
+  "main": "y",
+  "dependencies": {
+    "parcel-bundler": "^1.12.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "author": "Dakota Sexton",
+  "license": "ISC"
+}
